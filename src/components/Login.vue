@@ -18,8 +18,8 @@
     data() {
       return {
         user: {
-          Uname: 'B67558',
-          Pword: '123456'
+          Uname: '',
+          Pword: ''
         },
         error: ''
       }
