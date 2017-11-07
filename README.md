@@ -1,6 +1,6 @@
 # log-in
 
-> Assdas Vue.js project
+> A Vue.js project
 
 ## Build Setup
 
