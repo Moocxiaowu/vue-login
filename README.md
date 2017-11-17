@@ -1,7 +1,7 @@
 # log-in
 
 > A Vue.js project
-![image](https://github.com/Moocxiaowu/vue-login/master/screenshot/1-home.png)
+![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/1-home.png)
 ## Build Setup
 
 ``` bash
