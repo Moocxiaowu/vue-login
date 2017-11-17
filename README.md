@@ -1,7 +1,17 @@
 # log-in
 
-> A Vue.js project
+> 运行截图如下
+主页
 ![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/1-home.png)
+登陆
+![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/2-login.png)
+登入后个人页面
+![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/3-person.png)
+登陆后查询页面
+![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/4-file.png)
+登出
+![image](https://github.com/Moocxiaowu/vue-login/blob/master/screenshot/5-logout.png)
+
 ## Build Setup
 
 ``` bash
