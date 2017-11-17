@@ -62,7 +62,9 @@ export default {
              }
              trs += "</table>";
              localStorage.setItem('data',trs);
-         })
+         }, function (response) {
+           alert("账号或密码错误")
+           console.log(response)})
       }, function (response) {
            console.log(response)}
       )
